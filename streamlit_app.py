@@ -4,3 +4,5 @@ streamlit.title('Breakfast Menu')
 streamlit.text('Omega 3 & Blueberry Otameal')
 streamlit.text('Kale, Spinach & Rocket Smoothe')
 streamlit.text('Hard-Boiled Free-Range Egg')
+
+streamlit.text('🥣 Omega 3 & Blueberry Otameal')
